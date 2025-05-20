@@ -1,0 +1,14 @@
+# main
+build/
+
+# builder
+builder/*csproj*
+builder/.vs/
+builder/obj/
+builder/Build/
+
+#modules
+_modules/**/*csproj*
+_modules/**/.vs/
+_modules/**/obj/
+_modules/**/Build/
